@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Localized Crop Advisor",
+    "slug": "lca-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#4CAF50"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lca.mobile"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4CAF50"
+      },
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.lca.mobile"
+    },
+    "web": {
+    },
+    "extra": {
+      "apiUrl": "http://192.168.1.2:5001/api/v1"
+    }
+  }
+}
