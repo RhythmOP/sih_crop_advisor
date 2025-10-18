@@ -6,6 +6,8 @@ AI-Based Crop Recommendation System for Farmers
 
 The Localized Crop Advisor is an AI-powered mobile application that provides personalized crop recommendations to farmers based on their location's soil conditions, weather patterns, and historical agricultural data.
 
+![image alt](https://github.com/RhythmOP/sih_crop_advisor/blob/2a12c8b133e87343b539319282b4b2f9b0f4427a/Untitled%20design.png)
+
 ## ✨ Core Features (MVP)
 
 1. **ML-Based Crop Recommendations** - Get top 3-5 suitable crops for your location
